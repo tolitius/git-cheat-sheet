@@ -61,7 +61,9 @@
 
     git reset SHA1	// e.g. after 'git lol', you find the SHA1 you want to go to ( git reset 0179017 )
 
-	...current modifications are still in act at this point, so branch pointer is reset to '0179017', however all the files/content is still at its latest state. To change that - to ignore all the present content and really go to '0179017':
+	...current modifications are still in act at this point, so branch pointer is reset to '0179017', 
+       however all the files/content is still at its latest state. 
+       To change that - to ignore all the present content and really go to '0179017':
 
     git reset --hard
 
