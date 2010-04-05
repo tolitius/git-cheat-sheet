@@ -7,7 +7,9 @@ git cheat sheet: [git-cheat-sheet.markdown](http://github.com/trickster/git-chea
 
 ###_resources_
 
-[pro git](http://progit.org/book/) ("the" book)
-
+[pro git](http://progit.org/book/) ("the" book)<br />
 [git in one hour](http://www.oreillynet.com/pub/e/1394) (video)
+
+[practical git guide](http://github.com/guides/git-cheat-sheet)<br />
+[detailed git guide](http://cheat.errtheblog.com/s/git/)
 
